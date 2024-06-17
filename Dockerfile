@@ -1,1 +1,1 @@
-FROM  gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:931736267f2856f81fc2d9d9a4f5900265ebc5488387aa1d09af9ebe1a049f39
+FROM  rancher/nginx-ingress-controller
