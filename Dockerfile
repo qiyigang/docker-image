@@ -1,1 +1,1 @@
-FROM  rancher/nginx-ingress-controller:nginx-1.10.1-rancher1@sha256:3910737f63620ebbd1ba7211213892543f58fc469f0630157fd7aeb39efdb7b5
+FROM  myifeng/registry.k8s.io_ingress-nginx_controller:v1.5.1@sha256:4ba73c697770664c1e00e9f968de14e08f606ff961c76e5d7033a4a9c593c629
