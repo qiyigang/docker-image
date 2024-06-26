@@ -1,1 +1,1 @@
-FROM  myifeng/registry.k8s.io_ingress-nginx_controller:v1.5.1@sha256:4ba73c697770664c1e00e9f968de14e08f606ff961c76e5d7033a4a9c593c629
+FROM  	ctrox/csi-s3:v1.2.0-rc.2
