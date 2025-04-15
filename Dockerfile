@@ -1,1 +1,1 @@
-FROM  	ctrox/csi-s3:v1.2.0-rc.1
+FROM  	ghcr.io/open-webui/open-webui:main
