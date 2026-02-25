@@ -1,1 +1,1 @@
-FROM  	ghcr.io/usestrix/strix-sandbox:0.1.12
+FROM  	ghcr.io/usestrix/strix-sandbox:0.1.11
